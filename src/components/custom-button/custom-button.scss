@@ -1,0 +1,16 @@
+button {
+  background-color: white;
+  border: 1px solid #ff4747;
+  color: #ff4747;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.selected {
+    background-color: #ff4747;
+    color:white;
+}

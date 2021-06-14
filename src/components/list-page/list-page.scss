@@ -1,0 +1,12 @@
+.pc-list-page{
+    .pc-list-page__products-container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: 20px 60px;
+        background: white;
+        @media all and (max-width: 767px) {
+            margin: 20px 20px 100px 20px;
+        }
+    }
+}
